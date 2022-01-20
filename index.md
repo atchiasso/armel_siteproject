@@ -1,10 +1,9 @@
-## Welcome to GitHub Pages
+## Welcome to Armel's project site
 
-You can use the [editor on GitHub](https://github.com/atchiasso/atchiasso/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Currently an apprentice student at ESIEA Paris in 5th year specializing in Artificial Intelligence and Data Science. I am working for the RATP on the project of the extension of the line 11 of the Parisian subway in the System integration of on-board train systems. 
+I will present you my project throughout my schooling.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### Projects
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 

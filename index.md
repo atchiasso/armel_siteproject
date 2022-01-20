@@ -1,4 +1,4 @@
-## Welcome to Armel's project site
+# Welcome to Armel's project site
 
 Currently an apprentice student at ESIEA Paris in 5th year specializing in Artificial Intelligence and Data Science. I am working for the RATP on the project of the extension of the line 11 of the Parisian subway in the System integration of on-board train systems. 
 I will present you my project throughout my schooling.
